@@ -7,7 +7,6 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adarsh-007-akira" alt="adarsh-007-akira" /></a> </p>
 
-<p><img src="Hello Coders.png"></p>
 
 - 🔭 I’m currently working on **Student Management System**
 
