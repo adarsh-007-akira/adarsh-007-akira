@@ -5,7 +5,7 @@
 
 <img align="right" alt="Coding" width="800" src="https://raw.githubusercontent.com/gist/MedRedha/fd8e2481bde2610c96b9aafde543879c/raw/88624e8d31c4295973dcb7c900dacf0edc0a6d99/coding.gif">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adarsh-007-akira" alt="adarsh-007-akira" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adarsh-007-akira" alt="adarsh-007-akira" /></a> </p>
 
 - 🔭 I’m currently working on **Student Management System**
 
