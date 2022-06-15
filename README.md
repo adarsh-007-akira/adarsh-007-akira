@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Adarsh</h1>
 <h3 align="center">A Passionate Computer Science Student From Delhi, India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adarsh-007-akira&label=Profile%20views&color=0e75b6&style=flat" alt="adarsh-007-akira" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=adarsh-007-akira&label=Profile%20views&color=0e75b6&style=flat" alt="adarsh-007-akira" /> </p>
 
-<img align="right" alt="Coding" width="800" src="https://raw.githubusercontent.com/gist/MedRedha/fd8e2481bde2610c96b9aafde543879c/raw/88624e8d31c4295973dcb7c900dacf0edc0a6d99/coding.gif">
+<img align="center" alt="Coding" width="800" src="https://raw.githubusercontent.com/gist/MedRedha/fd8e2481bde2610c96b9aafde543879c/raw/88624e8d31c4295973dcb7c900dacf0edc0a6d99/coding.gif">
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adarsh-007-akira" alt="adarsh-007-akira" /></a> </p>
 
