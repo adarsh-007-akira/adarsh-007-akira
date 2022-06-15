@@ -1,10 +1,23 @@
-- 👋 Hi, ADARSH
-- 👀 I’m interested in COMPUTER SCIENCE AS A WHOLE SUBJECT
-- 🌱 I’m currently learning PYTHON
-- 💞️ I’m looking to collaborate on COMMERCIAL PROJECT
-- 📫 How to reach me EMAIL - kadarsh309@gmail.com
+<h1 align="center">Hi 👋, I'm Adarsh</h1>
+<h3 align="center">A Passionate Computer Science Student From Delhi, India</h3>
 
-<!---
-adarsh-007-akira/adarsh-007-akira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=adarsh-007-akira&label=Profile%20views&color=0e75b6&style=flat" alt="adarsh-007-akira" /> </p>
+
+- 🌱 I’m currently learning **Python, Tkinter module**
+
+- 💬 Ask me about **Python**
+
+- 📫 How to reach me **kadarsh309@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adarsh-007-akira&show_icons=true&locale=en&layout=compact" alt="adarsh-007-akira" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adarsh-007-akira&show_icons=true&locale=en" alt="adarsh-007-akira" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adarsh-007-akira&" alt="adarsh-007-akira" /></p>
